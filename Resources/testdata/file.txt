@@ -1,0 +1,29 @@
+   <test thread-count="5" name="Register">
+    <classes>
+      <class name="com.me.testcases.TC_001"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="Login">
+    <classes>
+      <class name="com.me.testcases.TC_002"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="PasswordChange">
+    <classes>
+      <class name="com.me.testcases.TC_003"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="AddToCart">
+    <classes>
+      <class name="com.me.testcases.TC_004"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="NewsLetter">
+    <classes>
+      <class name="com.me.testcases.TC_005"/>
+    </classes>
+  </test> <!-- Test -->
